@@ -1,0 +1,14 @@
+
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(îİÉ“ùÿÿÿÿ8ÒË‡–Ü0
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Üßàp8ÖË‡–Ü0
+p	java:S116"ORename this field "UDAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î”çğùÿÿÿÿ8Î‡–Ü0
+u
+java:S1450"SRemove the "UDAO" field and declare it as a local variable in the relevant methods.(î”çğùÿÿÿÿ8æÎ‡–Ü0
+
+java:S1989"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿ8§Ï‡–Ü0
+J
+java:S1128"-Remove this unused import 'sn.entities.User'.(¤ÉŸÆ8³Ï‡–Ü0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8´Ï‡–Ü0
+J
+java:S1068"(Remove this unused "UDAO" private field.(î”çğùÿÿÿÿ8¶Ï‡–Ü0

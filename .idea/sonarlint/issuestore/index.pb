@@ -1,0 +1,37 @@
+
+Z
+*src/main/java/sn/config/HibernateUtil.java,f\a\fa3cf4421f11ecef5a6b19ce25f2297bcd0e43f0
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+[
++src/main/webapp/WEB-INF/views/chat/chat.jsp,c\f\cf07f3b61bb9fd11e2525d655e6d769d4c2de4d3
+^
+.src/main/webapp/WEB-INF/views/roles/update.jsp,5\d\5d7bd3cdaa587479fcc9fdcb51ab1cadce7756e8
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/java/sn/dao/IRole.java,3\9\39fd28deb748019de81360f96f180c46c19de46e
+_
+/src/main/webapp/WEB-INF/views/public/header.jsp,7\2\72b7fa98e98cfd22c41bd6de089b18cf5a33139a
+P
+ src/test/java/ScolariteTest.java,a\0\a0e2d80e35e070769e39cc1e52b256a7ff76a881
+S
+#src/main/java/sn/entities/User.java,1\9\19e2d6fbc09500a96c1d8c6021e137f34f6fb1df
+S
+#src/main/java/sn/entities/Role.java,c\a\cab4ac21c3994bf2d762402ee6351533279139ca
+R
+"src/main/java/sn/dao/RoleImpl.java,a\d\ad4efb8ad0b4d27f9dafe7186841c3b262495429
+[
++src/main/java/sn/groupeisi/roleServlet.java,2\3\23728586720a4b5dced5055c111c05f47d9c3039
+[
++src/main/webapp/WEB-INF/views/roles/add.jsp,2\4\24da8311dc9ddf4535af2cc5bd969dca25f8299d
+[
++src/main/webapp/WEB-INF/views/users/add.jsp,4\2\42837d2c17402cd2a0f65db7cb70cc539d870504
+\
+,src/main/java/sn/groupeisi/loginServlet.java,4\9\49a15c36b5a0487288601414265f8800018892ab
+[
++src/main/java/sn/groupeisi/userservlet.java,d\b\db84c7fa9034867c271d75b90ee16ec0ecafed97
+\
+,src/main/webapp/WEB-INF/views/roles/list.jsp,6\0\60850c8064cc89a02ebf368c5ee56d0226d75e2a
+]
+-src/main/java/sn/groupeisi/updateServlet.java,6\e\6e82db374f12e060e20c6b8b2635a192a123f91e

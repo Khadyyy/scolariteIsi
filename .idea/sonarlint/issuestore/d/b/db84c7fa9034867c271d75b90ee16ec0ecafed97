@@ -1,0 +1,60 @@
+
+a
+java:S1192A"FDefine a constant instead of duplicating this literal "users" 3 times.(¤Òß‹ùÿÿÿÿ
+\
+java:S1192"FDefine a constant instead of duplicating this literal "email" 3 times.(»öÃ—
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Éƒãˆÿÿÿÿÿ
+R
+java:S49732"<Strings and Boxed types should be compared using "equals()".(’Ìü
+j
+java:S3008"TRename this field "VIEW_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔíÕ§
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÔíÕ§
+>
+java:S1185"(Remove this method to simply inherit it.(®´š¥
+P
+java:S1854."5Remove this useless assignment to local variable "r".(°Ò®‰ýÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(ØÐÓúÿÿÿÿ
+|
+java:S1989#"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¾§Á´ùÿÿÿÿ
+A
+java:S1481."&Remove this unused "r" local variable.(°Ò®‰ýÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(žÑË³úÿÿÿÿ
+n
+java:S1989A"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¤Òß‹ùÿÿÿÿ
+P
+java:S1854R"5Remove this useless assignment to local variable "r".(°Ò®‰ýÿÿÿÿ
+K
+java:S1854["5Remove this useless assignment to local variable "u".(¨È©¦
+L
+java:S1854a"6Remove this useless assignment to local variable "id".(ˆÛžƒ
+P
+java:S1854n"5Remove this useless assignment to local variable "r".(°Ò®‰ýÿÿÿÿ
+K
+java:S1854m"5Remove this useless assignment to local variable "u".(¨È©¦
+n
+java:S1989L"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ä‰Öüÿÿÿÿ
+A
+java:S1481R"&Remove this unused "r" local variable.(°Ò®‰ýÿÿÿÿ
+|
+java:S1989V"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¾§Á´ùÿÿÿÿ
+Q	java:S125U"<This block of commented-out lines of code should be removed.(™ê˜¼
+o
+java:S1989Y"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ˆÛžƒ
+<
+java:S1481["&Remove this unused "u" local variable.(¨È©¦
+n
+java:S1989^"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¤Òß‹ùÿÿÿÿ
+o
+java:S1989a"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ˆÛžƒ
+=
+java:S1481a"'Remove this unused "id" local variable.(ˆÛžƒ
+n
+java:S1989e"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¤Òß‹ùÿÿÿÿ
+<
+java:S1481m"&Remove this unused "u" local variable.(¨È©¦
+A
+java:S1481n"&Remove this unused "r" local variable.(°Ò®‰ýÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(£ì®ñûÿÿÿÿ
+w
+java:S1989v"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ð„‹

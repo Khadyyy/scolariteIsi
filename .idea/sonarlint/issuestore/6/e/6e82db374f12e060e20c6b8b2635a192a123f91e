@@ -1,0 +1,40 @@
+
+J
+java:S1066"/Merge this if statement with the enclosing one.(«Œ©Žúÿÿÿÿ
+J
+java:S10667"/Merge this if statement with the enclosing one.(«Œ©Žúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶Éªñøÿÿÿÿ
+R
+java:S4973E"<Strings and Boxed types should be compared using "equals()".(’Ìü
+j
+java:S3008"TRename this field "VIEW_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔíÕ§
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÔíÕ§
+L
+java:S1854"6Remove this useless assignment to local variable "id".(ˆÛžƒ
+n
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ä‰Öüÿÿÿÿ
+o
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ˆÛžƒ
+=
+java:S1481"'Remove this unused "id" local variable.(ˆÛžƒ
+n
+java:S1989#"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¤Òß‹ùÿÿÿÿ
+h
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(‹¨¯¿
+P
+java:S1854A"5Remove this useless assignment to local variable "r".(°Ò®‰ýÿÿÿÿ
+L
+java:S18548"6Remove this useless assignment to local variable "id".(ˆÛžƒ
+V	java:S125/"<This block of commented-out lines of code should be removed.(ØÐÓúÿÿÿÿ
+w
+java:S19892"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ð„‹
+o
+java:S19898"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ˆÛžƒ
+=
+java:S14818"'Remove this unused "id" local variable.(ˆÛžƒ
+A
+java:S1481A"&Remove this unused "r" local variable.(°Ò®‰ýÿÿÿÿ
+V	java:S125J"<This block of commented-out lines of code should be removed.(žÑË³úÿÿÿÿ
+n
+java:S1989T"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¤Òß‹ùÿÿÿÿ
